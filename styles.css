@@ -1,0 +1,49 @@
+body{
+  background-color: #f6f5f5;
+}
+hr{
+  background-color:oldlace;
+  border-style:dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  height:0px;
+  width:30%;
+}
+.container{
+  background-color: #3bb4c1;
+  height: 400px;
+  width: 800px;
+  border-radius: 30px;
+  margin: 30px auto;
+  padding: 20px;
+
+}
+.lists{
+  background-color: #e9e4e6;
+  height: 120px;
+  width: 1000px;
+  margin: 30px auto;
+  position: relative;
+}
+.list1{
+  float: left;
+  position: absolute;
+  left: 100px;
+}
+.list2{
+  float: right;
+  position: absolute;
+  right: 500px;
+}
+.list3{
+  float: right;
+  position: absolute;
+  right: 100px;
+}
+.forms{
+  margin: 10px auto;
+  height: 200px;
+  width: 400px;
+  background-color: #048998;
+  padding: 10px;
+}
